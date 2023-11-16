@@ -143,4 +143,36 @@
     "description_it": "ITALIAN SOPRALEN EGV 35 FLAM FLAM - 10 m x 1 m è un telo di bitume elastomero e viene esclusivamente impiegato come strato intermedio per impermeabilizzazioni da saldare.",
     "description_fr": "FRENCH SOPRALEN EGV 35 FLAM FLAM - 10 m x 1 m est un lé en bitume élastomère utilisé uniquement comme couche intermédiaire pour l'étanchéité soudée."
   },
+  {
+    "key": "Sopranature  WSP Slow Drain 25",
+    "name": "SOPRANATURE WSP SLOW DRAIN 25",
+    "image": "https://www.soprema.ch/files/resize/outside/350-350-wsp-slow-drain-25_b971d889722c582a295eec55ea9f1b1f.webp",
+    "description_de": "Ideal zur Entlastung der Kanalisation bei Starkregen.",
+    "description_it": "ITALIAN Ideale per alleggerire il sistema fognario in caso di forti piogge.",
+    "description_fr": "FRENCH Idéal pour désengorger les canalisations en cas de fortes pluies."
+  },
+  {
+    "key": "Sopranature WSP 20 VG",
+    "name": "SOPRANATURE WSP 20 VG",
+    "image": "https://www.soprema.ch/files/resize/outside/350-350-98675-sopranture-wsp-20-vg-v1_165a4fd8362a2f14147598fe63cc08a2.webp",
+    "description_de": "SOPRANATURE WSP 20 VG ist eine Wasserspeicher- und Drainagematte, die aus einer Noppenfolie aus HDPE mit einem aufkaschierten Filtervlies aus Polypropylen (PP) besteht und eine hoher Druckfestigkeit ausweist.",
+    "description_it": "ITALIAN SOPRANATURE WSP 20 VG é una stuoia drenante con capacità di ritenzione dell'acqua, consiste in un foglio a bolli in HDPE con un velo filtrante sovrapposto in polipropilene (PP) e con una resistenza molto elevata alla compressione.",
+    "description_fr": "FRENCH SOPRANATURE WSP 20 VG est une natte de rétention d'eau et de drainage très résistante à la pression, composée d'une feuille PE-HD à excroissances revêtue d'un non-tissé filtrant en polypropylène (PP)."
+  },
+  {
+    "key": "Sopranature WSP 40",
+    "name": "SOPRANATURE WSP DRAIN 40",
+    "image": "https://www.soprema.ch/files/resize/outside/350-350-wsp-40_b12f7af626de8bc10dd7b155cb121949.webp",
+    "description_de": "Geeignet für Dachflächen mit extensiver oder einschichtig intensiver Dachbegrünung.",
+    "description_it": "ITALIAN Indicato per coperture di tetti con inverdimenti estensivi o intensivi monostrato.",
+    "description_fr": "FRENCH Convient pour les toitures avec végétalisation extensive ou intensive monocouche."
+  },
+  {
+    "key": "SOPRALEN EP 5 ard flam WF",
+    "name": "SOPRALEN EP5 ARD FLAM WF - 8 m x 1 m",
+    "image": "https://www.soprema.ch/files/resize/outside/350-350-41285-ep5-20ard-20flam-20wf_038c386b87a04292681b44abe43f7a83.webp",
+    "description_de": "Die SOPRALEN EP5 ARD FLAM WF - 8 m x 1 m ist eine Elastomerbitumen-Schweissbahn und wird als wurzel- und rhizomfeste Oberlage bei Abdichtungen von Gründächern eingesetzt. Die technischen Werte der Bahn entsprechen den Mindestanforderungen der Norm SIA 271.",
+    "description_it": "ITALIAN SOPRALEN EP5 ARD FLAM WF - 8 m x 1 m è un telo da saldare di bitume elastomero e viene impiegato come strato superiore anti-radici e rizomi per impermeabilizzazione di tetti verdi. I valori tecnici del telo rispondono ai requisiti minimi della norma SIA 271.",
+    "description_fr": "FRENCH SOPRALEN EP5 ARD FLAM WF - 8 m x 1 m est un lé en bitume élastomère thermosoudable utilisé comme couche supérieure anti-racines et anti-rhizomes sur les toitures végétalisées. Les valeurs techniques du lé correspondent aux exigences minimales de la norme SIA 271."
+  },
 ]
