@@ -256,11 +256,59 @@
     "description_fr": "FRENCH SOPRADRAIN ISO 20 V est une natte à excroissances en polyéthylène à haute densité (PE-HD) très résistante à la compression, recouverte d'un non-tissé filtrant en polypropylène (PP)."
   },
   {
-    "key": "SOPRADRAIN ISO 20V",
-    "name": "SOPRADRAIN ISO 20 V",
-    "image": "https://www.soprema.ch/files/resize/outside/350-350-97904-sopradrain-iso-v-20-v1_f03580c04b50bc1fe03ed9354ba24644.webp",
-    "description_de": "SOPRADRAIN ISO 20 V ist eine Noppenfolie aus HDPE mit einem aufkaschierten Filtervlies aus Polypropylen (PP) mit sehr hoher Druckfestigkeit.",
-    "description_it": "ITALIAN SOPRADRAIN ISO 20 V é un foglio a bolle in HDPE con un velo filtrante rivestito in polipropilene (PP), con una resistenza alla compressione molto elevata.",
-    "description_fr": "FRENCH SOPRADRAIN ISO 20 V est une natte à excroissances en polyéthylène à haute densité (PE-HD) très résistante à la compression, recouverte d'un non-tissé filtrant en polypropylène (PP)."
+    "key": "Sopratec Top 10",
+    "name": "SOPRATEC TOP - 10 mm",
+    "image": "https://www.soprema.ch/files/resize/outside/350-350-41755-sopratec-20top-10mm_153938db79e74f324e02eee60659bca9.webp",
+    "description_de": "SOPRATEC TOP - 10 mm ist eine Bautenschutzmatte aus Gummigranulat auf Recyclingbasis, mit Poyurethan gebunden, verrottungsfest und wasserbeständig.",
+    "description_it": "ITALIAN SOPRATEC TOP - 10 mm é un materassino di protezione in granulato di gomma riciclata, legata con poliuretano, imputrescibile e resistente all'acqua.",
+    "description_fr": "FRENCH SOPRATEC TOP - 10 mm est une natte de protection en granulat de caoutchouc recyclé lié au polyuréthane, imputrescible et résistante à l'eau."
+  },
+  {
+    "key": "Sopratec Top 6",
+    "name": "SOPRATEC TOP - 6 mm",
+    "image": "https://www.soprema.ch/files/resize/outside/350-350-41753-sopratec-20top-6mm_8298ef730fdbdeb2b923d2cf81234a44.webp",
+    "description_de": "SOPRATEC TOP - 6 mm ist eine Bautenschutzmatte aus Gummigranulat auf Recyclingbasis, mit Poyurethan gebunden, verrottungsfest und wasserbeständig.",
+    "description_it": "ITALIAN SOPRATEC TOP - 6 mm é un materassino di protezione in granulato di gomma riciclata, legata con poliuretano, imputrescibile e resistente all'acqua.",
+    "description_fr": "FRENCH SOPRATEC TOP - 6 mm est une natte de protection en granulat de caoutchouc recyclé lié au polyuréthane, imputrescible et résistante à l'eau."
+  },
+  {
+    "key": "Sopratec Top 8",
+    "name": "SOPRATEC TOP - 8 mm",
+    "image": "https://www.soprema.ch/files/resize/outside/350-350-41754-gummischrotmatte-8mm_261815c0358ed27b5b2f3a87bf33d1a8.webp",
+    "description_de": "SOPRATEC TOP - 8 mm ist eine Bautenschutzmatte aus Gummigranulat auf Recyclingbasis, mit Poyurethan gebunden, verrottungsfest und wasserbeständig.",
+    "description_it": "ITALIAN SOPRATEC TOP - 8 mm é un materassino di protezione in granulato di gomma riciclata, legata con poliuretano, imputrescibile e resistente all'acqua.",
+    "description_fr": "FRENCH SOPRATEC TOP - 8 mm est une natte de protection en granulat de caoutchouc recyclé lié au polyuréthane, imputrescible et résistante à l'eau."
+  },
+  {
+    "key": "Sopratex RPP 1100",
+    "name": "SOPRATEX RPP 1100",
+    "image": "https://www.soprema.ch/files/resize/outside/350-350-98677-sopraway-1000_489737e6881f2a2d8bfa777bde4eb41b.webp",
+    "description_de": "SOPRATEX RPP 1100 ist eine Faserschutzmatte aus Polypropylen-Recyclingfasern mit geringem Eigengewicht.",
+    "description_it": "ITALIAN SOPRATEX RPP 1100 é un tappetino protettivo in fibra di polipropilene riciclato con un peso proprio minimo.",
+    "description_fr": "FRENCH SOPRATEX RPP 1100 est un tapis de protection en fibres de polypropylène recyclé, particulièrement léger."
+  },
+  {
+    "key": "Sopratex RPP 800",
+    "name": "SOPRATEX RPP 800",
+    "image": "https://www.soprema.ch/files/resize/outside/350-350-98676-sopraway-800_9ccb3161b99631d6040ce8c6c46b931f.webp",
+    "description_de": "SOPRATEX RPP 800 ist eine Faserschutzmatte aus Polypropylen-Recyclingfasern mit geringem Eigengewicht.",
+    "description_it": "ITALIAN SOPRATEX RPP 800 é un tappetino protettivo in fibra di polipropilene riciclato con un peso proprio minimo.",
+    "description_fr": "FRENCH SOPRATEX RPP 800 est un tapis de protection en fibres de polypropylène recyclé, particulièrement léger."
+  },
+  {
+    "key": "Flagon EP / PR 150",
+    "name": "FLAGON EP/PR F 150",
+    "image": "",
+    "description_de": "Die FLAGON EP/PR F 150 ist eine Kunststoffbahn aus thermoplastischen Polyolefinen TPO, hergestellt im Koextrusionsverfahren in zweifarbiger Ausführung sandgrau/schwarz,  mit einer Trägereinlage aus Polyestergewebe und unterseitiger Polyestervlieskaschierung. Die Bahn wird für die vollflächige verklebte Dachsysteme eingesetzt. Weitere Funktionsschichten und Zubehör können mit Produkten, die von SOPREMA-FLAG hergestellt oder zugelassen sind, verwendet werden.",
+    "description_it": "ITALIAN FLAGON EP/PR F 150 é un telo sintetico in poliolefina termoplastica TPO, realizzato mediante procedimento di coestrusione, esecuzione bicolore grigio sabbia/nero, con un rinforzo in tessuto di poliestere e rivestito nella parte inferiore con velo in fibra di poliestere. Il telo viene utilizzato per sistemi di copertura incollati su tutta la superficie. E' possibile utilizzare ulteriori strati funzionali e accessori con prodotti realizzati od omologati da SOPREMA-FLAG.",
+    "description_fr": "FRENCH FLAGON EP/PR F 150 est une membrane synthétique multicouche constituée de polyoléfines thermoplastiques (TPO), fabriquée par co-extrusion et finition bicolore gris sable/noir, avec une armature en tissu de polyester et face inférieure revêtue d'un voile de polyester. Elle est utilisée dans les systèmes d'étanchéité de toiture collés en plein. D'autres couches fonctionnelles et accessoires peuvent être utilisés avec les produits fabriqués ou homologués par SOPREMA-FLAG."
+  },
+  {
+    "key": "Flagon EP / PV 180",
+    "name": "FLAGON EP/PR F 150",
+    "image": "",
+    "description_de": "Die FLAGON EP/PR F 150 ist eine Kunststoffbahn aus thermoplastischen Polyolefinen TPO, hergestellt im Koextrusionsverfahren in zweifarbiger Ausführung sandgrau/schwarz,  mit einer Trägereinlage aus Polyestergewebe und unterseitiger Polyestervlieskaschierung. Die Bahn wird für die vollflächige verklebte Dachsysteme eingesetzt. Weitere Funktionsschichten und Zubehör können mit Produkten, die von SOPREMA-FLAG hergestellt oder zugelassen sind, verwendet werden.",
+    "description_it": "ITALIAN FLAGON EP/PR F 150 é un telo sintetico in poliolefina termoplastica TPO, realizzato mediante procedimento di coestrusione, esecuzione bicolore grigio sabbia/nero, con un rinforzo in tessuto di poliestere e rivestito nella parte inferiore con velo in fibra di poliestere. Il telo viene utilizzato per sistemi di copertura incollati su tutta la superficie. E' possibile utilizzare ulteriori strati funzionali e accessori con prodotti realizzati od omologati da SOPREMA-FLAG.",
+    "description_fr": "FRENCH FLAGON EP/PR F 150 est une membrane synthétique multicouche constituée de polyoléfines thermoplastiques (TPO), fabriquée par co-extrusion et finition bicolore gris sable/noir, avec une armature en tissu de polyester et face inférieure revêtue d'un voile de polyester. Elle est utilisée dans les systèmes d'étanchéité de toiture collés en plein. D'autres couches fonctionnelles et accessoires peuvent être utilisés avec les produits fabriqués ou homologués par SOPREMA-FLAG."
   },
 ]
