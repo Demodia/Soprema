@@ -70,5 +70,45 @@
     "description_de": "Die SOPRALEN EP5 ARD FLAM - 8 m x 1 m ist eine Elastomerbitumen-Schweissbahn und wird als Oberlage bei Abdichtungen unter Kies oder Plattenbelägen eingesetzt. Die technischen Werte der Bahn entsprechen den Mindestanforderungen der Norm SIA 271.",
     "description_it": "ITALIAN SOPRALEN EP5 ARD FLAM - 8 m x 1 m è un telo da saldare di bitume elastomero e viene impiegato come strato superiore per impermeabilizzazioni sotto ghiaia o pavimentazioni con lastre. I valori tecnici del telo rispondono ai requisiti minimi della norma SIA 271.",
     "description_fr": "FRENCH SOPRALEN EP5 ARD FLAM - 8 m x 1 m est un lé en bitume élastomère thermosoudable utilisé comme couche supérieure d'étanchéité sous le gravier ou les dalles de revêtement. Les valeurs techniques du lé correspondent aux exigences minimales de la norme SIA 271."
-  }
+  },
+  {
+    "key": "SOPRAVAP EVA 35 flam",
+    "name": "SOPRAVAP EVA35 FLAM - 10 m x 1 m",
+    "image": "https://www.soprema.ch/files/resize/outside/350-350-42256-eva-2035-20flam_7e5efe2772e8640db1234f9c4293551b.webp",
+    "description_de": "Die SOPRAVAP EVA35 FLAM - 10 m x 1 m, ist eine hochwertige, schweissbare Elastomerbitumen-Dampfbremsbahn mit Aluminium-Verbundträger und Glasvlies und wird vorwiegend auf mineralischen Unterlagen eingesetzt.",
+    "description_it": "ITALIAN SOPRAVAP EVA35 FLAM - 10 m x 1 m è un freno vapore di bitume elastomero saldabile, di qualità elevata rinforzato con alluminio e velo in fibra di vetro e viene utilizzato prevalentemente su supporti minerali.",
+    "description_fr": "FRENCH SOPRAVAP EVA35 FLAM - 10 m x 1 m est un pare-vapeur en bitume élastomère soudable, de haute qualité, renforcé d'aluminium et d'un voile de fibres de verre. Il est principalement utilisé sur supports minéraux."
+  },
+  {
+    "key": "SOPRALEN Impact MA / AC flam",
+    "name": "SOPRALEN IMPACT MA/AC FLAM - 8 m x 1 m",
+    "image": "https://www.soprema.ch/files/resize/outside/350-350-69737-impact-20ma-ac-20flam-208m_9a56c473be1ad80f74582392e3a838e0.webp",
+    "description_de": "SOPRALEN IMPACT MA/AC FLAM - 8 m x 1 m ist eine Polymerbitumen-Schweissbahn mit hochliegender Polyestervliesträger-einlage für 1-lagige Abdichtungen von Betonbrücken und anderen Verkehrsflächen aus Beton unter Guss- oder Walzasphalt in höchster Qualität.",
+    "description_it": "ITALIAN SOPRALEN IMPACT MA/AC FLAM - 8 m x 1 m è un telo da saldare in bitume polimero, con velo in fibra di poliestere armato posizionato in alto, per impermeabilizzazione ad uno strato di ponti di calcestruzzo e altre superfici di transito in calcestruzzo sotto asfalto fuso o miscela bituminosa di altissima qualità.",
+    "description_fr": "FRENCH SOPRALEN IMPACT MA/AC FLAM - 8 m x 1 m est un lé en bitume-polymère thermosoudable armé d'un voile en polyester pour étanchéité monocouche des ponts en béton et autres surfaces de circulation en béton, il est utilisé sous asphalte coulé ou enrobé bitumineux de très haute qualité."
+  },
+  {
+    "key": "SOPRALEN PP - Combi",
+    "name": "SOPRALEN PP-COMBI - 10 m x 1 m",
+    "image": "https://www.soprema.ch/files/resize/outside/350-350-41397-pp-combi_b78db9217d55b2310b00017cf88c7848.webp",
+    "description_de": "Die SOPRALEN PP-COMBI - 10 m x 1 m ist eine Elastomerbitumenbahn und wird hauptsächlich  als Trenn- und Ausgleichslage auf Holz- oder porösen Untergründen verwendet. Oberseitig Talk/Sand, unterseitig vlieskaschiert.",
+    "description_it": "ITALIAN SOPRALEN PP-COMBI - 10 m x 1 m è un telo di bitume elastomero e viene principalmente usato quale strato di separazione o di compensazione su supporti di legno o porosi. Nella parte superiore talco/sabbia, nella parte inferiore rivestito di non-tessuto.",
+    "description_fr": "FRENCH SOPRALEN PP-COMBI - 10 m x 1 m est un lé en bitume élastomère principalement utilisé comme couche de séparation et d'égalisation sur support en bois ou poreux. Face supérieure talc/sable, face inférieure revêtue d'un non-tissé."
+  },
+  {
+    "key": "SOPRALEN PP - Combi Plus",
+    "name": "SOPRALEN PP-COMBI PLUS - 10 m x 1 m",
+    "image": "https://www.soprema.ch/files/resize/outside/350-350-41126-pp-combi-20plus_c0c901c5044e953822c9c015ab0d8b40.webp",
+    "description_de": "Die SOPRALEN PP-COMBI PLUS - 10 m x 1 m ist eine Elastomerbitumenbahn und wird hauptsächlich  als Trenn- und Ausgleichslage auf Holz- oder porösen Untergründen verwendet. Oberseitig mit einer leicht abflämmbaren Flammfolie, unterseitig vlieskaschiert.",
+    "description_it": "ITALIAN SOPRALEN PP-COMBI PLUS - 10 m x 1 m è un telo di bitume elastomero e viene principalmente usato quale strato di separazione o di compensazione su supporti di legno o porosi. Nella parte superiore, con un film sfiammabile leggermente combustibile, in quella inferiore, rivestito di non tessuto.",
+    "description_fr": "FRENCH SOPRALEN PP-COMBI PLUS - 10 m x 1 m est un lé en bitume élastomère principalement utilisé comme couche de séparation et d'égalisation sur support en bois ou poreux. Face supérieure avec film thermofusible, face inférieure revêtue d'un non-tissé."
+  },
+  {
+    "key": "Servaflex G4E Activa 1",
+    "name": "SERVAFLEX G4E ACTIVA 1 - 8 m x 1 m",
+    "image": "https://www.soprema.ch/files/resize/outside/350-350-41890-servaflex-20g4e-20avtiva-201_4f720114d9bd7c776e42414442a50a03.webp",
+    "description_de": "Die SERVAFLEX G4E ACTIVA 1 - 8 m x 1 m, ist eine hochwertige Elastomerbitumen-Schweissbahn und wird als Zwischenlage bei hohen Anforderungen oder bei mech. befestigten Abdichtungen eingesetzt. Sie ist ausgestattet mit einer hochreissfesten Trägereinlage, unterseitig mit wärmeaktivierbaren Thermstreifen, oberseitig mit einer leicht abflämmbaren Flammfolie.",
+    "description_it": "ITALIAN SERVAFLEX G4E ACTIVA 1 - 8 m x 1 m è un telo da saldare di bitume elastomero di qualità elevata, e viene impiegato come strato intermedio in caso di esigenze elevate o per impermeabilizzazioni fissate meccanicamente. Lo stesso viene dotato di un'armatura altamente resistente allo strappo, nella parte inferiore, con strisce termiche termoattivabili, nella parte superiore, con un film sfiammabile leggermente combustibile.",
+    "description_fr": "FRENCH SERVAFLEX G4E ACTIVA 1 - 8 m x 1 m est un lé en bitume élastomère thermosoudable de haute qualité, utilisé comme couche intermédiaire en cas d'exigences élevées ou pour les systèmes d'étanchéité à fixation mécanique. Il est doté d'une armature très résistante à la déchirure, la face supérieure est recouverte d'un film thermofusible et la face inférieure de bandes thermo-activables.."
+  },
 ]
