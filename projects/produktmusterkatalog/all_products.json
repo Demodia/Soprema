@@ -29,6 +29,46 @@
     "image": "https://www.soprema.ch/files/resize/outside/350-350-membrane-colphene-bsw-h_e5de0e1bf5c52385f8670cc51980656c.webp",
     "description_de": "Colphene BSW H - 10 m x 1 m ist eine rissüberbrückende vorapplizierbare Frischbetonverbundbahn unter Bodenplatten für zweilagige Ausführung.",
     "description_it": "ITALIAN Colphene BSW H - 10 m x 1 m è una membrana composita per calcestruzzo fresco che fa da ponte alle fessure, preapplicabile, per pavimenti, per esecuzione a doppio strato.",
-    "description_fr": "FRENCH Colphène BSW H - 10 m x 1 m est une membrane composite pour béton frais qui peut être appliquée au préalable et qui assure le pontage des fissures sous les dalles de béton ; elle permet une mise en oeuvre en deux couches.."
+    "description_fr": "FRENCH Colphène BSW H - 10 m x 1 m est une membrane composite pour béton frais qui peut être appliquée au préalable et qui assure le pontage des fissures sous les dalles de béton ; elle permet une mise en oeuvre en deux couches."
+  }
+  {
+    "key": "Colphene BSW Unilay HP",
+    "name": "COLPHENE BSW UNILAY H/P - 8 m x 1 m",
+    "image": "https://www.soprema.ch/files/resize/outside/350-350-membrane-colphene-bsw-unilay_ff9bbc70c4167a6b57ae65cdab568c31.webp",
+    "description_de": "COLPHENE BSW UNILAY H/P - 8 m x 1 m ist eine rissüberbrückende Einlagige vorapplizierbare Frischbetonverbundbahn unter Bodenplatten.",
+    "description_it": "ITALIAN COLPHENE BSW UNILAY H/P - 8 m x 1 m è una membrana composita per calcestruzzo fresco che fa da ponte alle fessure, monostrato, preapplicabile, per pavimenti.",
+    "description_fr": "FRENCH COLPHENE BSW UNILAY H/P - 8 m x 1 m est une membrane composite pour béton frais, qui peut être appliquée au préalable et qui assure le pontage des fissures sous les dalles de béton ; elle permet une mise en oeuvre en une seule couche."
+  }
+  {
+    "key": "Colphene BSW V",
+    "name": "COLPHENE BSW V - 10 m x 1 m",
+    "image": "https://www.soprema.ch/files/resize/outside/350-350-membrane-colphene-bsw-v_f5b7a979eaedc2b48743f8d28c9a4fa7.webp",
+    "description_de": "Colphene BSW V - 10 m x 1 m ist eine rissüberbrückende selbstklebende vorapplizierbare Frischbetonverbundbahn für vertikale Flächen.",
+    "description_it": "ITALIAN Colphene BSW V - 10 m x 1 m è una membrana composita per calcestruzzo fresco che fa da ponte alle fessure, autoadesiva, preapplicabile, per superfici verticali.",
+    "description_fr": "FRENCH Colphene BSW V - 10 m x 1 m est une membrane composite pour béton frais, qui peut être appliquée au préalable ; elle est autoadhésive et assure le pontage des fissures sur les surfaces verticales."
+  }
+  {
+    "key": "SOPRALEN EGV 3 flam top",
+    "name": "SOPRALEN EGV3 FLAM TOP - 10 m x 1 m",
+    "image": "https://www.soprema.ch/files/resize/outside/350-350-41349-egv3-20flam-20top_3305906709f535490d9f4bdeee563a13.webp",
+    "description_de": "Die SOPRALEN EGV3 FLAM TOP - 10 m x 1 m ist eine Elastomerbitumen-Bahn und wird ausschliesslich als Zwischenlage bei Abdichtungen im Schweissverfahren eingesetzt.",
+    "description_it": "ITALIAN SOPRALEN EGV3 FLAM TOP - 10 m x 1 m è un telo di bitume elastomero e viene esclusivamente impiegato come strato intermedio per impermeabilizzazioni da saldare.",
+    "description_fr": "FRENCH SOPRALEN EGV3 FLAM TOP - 10 m x 1 m est un lé en bitume élastomère utilisé uniquement comme couche intermédiaire pour l'étanchéité soudée."
+  }
+  {
+    "key": "SOPRALEN EGV 35 flam top",
+    "name": "SOPRALEN EGV 35 FLAM TOP - 10 m x 1 m",
+    "image": "https://www.soprema.ch/files/resize/outside/350-350-97355-egv-2035-20-20flam-20top_7c8edc7fa104eec1cd3b9ab77c8c2540.webp",
+    "description_de": "Die SOPRALEN EGV 35 FLAM TOP - 10 m x 1 m ist eine Elastomerbitumen-Bahn und wird ausschliesslich als Zwischenlage bei Abdichtungen im Schweissverfahren eingesetzt.",
+    "description_it": "ITALIAN SOPRALEN EGV35 FLAM TOP - 10 m x 1 m è un telo di bitume elastomero e viene esclusivamente impiegato come strato intermedio per impermeabilizzazioni da saldare.",
+    "description_fr": "FRENCH SOPRALEN EGV 35 FLAM TOP - 10 m x 1 m est un lé en bitume élastomère utilisé uniquement comme couche intermédiaire pour l'étanchéité soudée."
+  }
+  {
+    "key": "SOPRALEN EP 5 ard flam",
+    "name": "SOPRALEN EP5 ARD FLAM - 8 m x 1 m",
+    "image": "https://www.soprema.ch/files/resize/outside/350-350-41594-ep5-20ard-20flam_5b41644d10d2415e6d63bf68af5cff85.webp",
+    "description_de": "Die SOPRALEN EP5 ARD FLAM - 8 m x 1 m ist eine Elastomerbitumen-Schweissbahn und wird als Oberlage bei Abdichtungen unter Kies oder Plattenbelägen eingesetzt. Die technischen Werte der Bahn entsprechen den Mindestanforderungen der Norm SIA 271.",
+    "description_it": "ITALIAN SOPRALEN EP5 ARD FLAM - 8 m x 1 m è un telo da saldare di bitume elastomero e viene impiegato come strato superiore per impermeabilizzazioni sotto ghiaia o pavimentazioni con lastre. I valori tecnici del telo rispondono ai requisiti minimi della norma SIA 271.",
+    "description_fr": "FRENCH SOPRALEN EP5 ARD FLAM - 8 m x 1 m est un lé en bitume élastomère thermosoudable utilisé comme couche supérieure d'étanchéité sous le gravier ou les dalles de revêtement. Les valeurs techniques du lé correspondent aux exigences minimales de la norme SIA 271."
   }
 ]
