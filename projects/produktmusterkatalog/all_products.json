@@ -304,11 +304,91 @@
     "description_fr": "FRENCH FLAGON EP/PR F 150 est une membrane synthétique multicouche constituée de polyoléfines thermoplastiques (TPO), fabriquée par co-extrusion et finition bicolore gris sable/noir, avec une armature en tissu de polyester et face inférieure revêtue d'un voile de polyester. Elle est utilisée dans les systèmes d'étanchéité de toiture collés en plein. D'autres couches fonctionnelles et accessoires peuvent être utilisés avec les produits fabriqués ou homologués par SOPREMA-FLAG."
   },
   {
-    "key": "Flagon EP / PV 180",
-    "name": "FLAGON EP/PR F 150",
+    "key": "Flagon Geo P120",
+    "name": "FLAGON GEO P - 1.2 mm - 25 m x 2.1 m TPO",
+    "image": "https://www.soprema.ch/files/resize/outside/350-350-flagon-20geo-20p_c45deea618b9d4cd61607a80cd316dda.webp",
+    "description_de": "FLAGON GEO P - 1.2 mm - 25 m x 2.1 m TPO ist eine Kunststoffbahn aus modifiziertem Polyolefin TPO nach UNI EN ISO 9001 und UNI EN ISO 14001, hergestellt im Koextrusionsverfahren in zweifarbiger Ausführung schwarz/grün, mit einem Verstärkungsträger aus Komposit. Weitere Funktionsschichten und Zubehör können mit Produkten, die von Flag S.p.A. hergestellt oder zugelassen sind, verwendet werden.",
+    "description_it": "ITALIAN FLAGON GEO P - 1.2 mm - 25 m x 2.1 m TPO è un manto sintetico in poliolefina modificata TPO conforme a UNI EN ISO 9001 e UNI EN ISO 14001, prodotto mediante coestrusione nella versione bicolore nero/nero, con un rinforzo in materiale composito. È possibile utilizzare ulteriori strati e accessori con prodotti fabbricati o approvati da Flag S.p.A.",
+    "description_fr": "FRENCH FLAGON GEO P - 1.2 mm - 25 m x 2.1 m TPO est une membrane synthétique en polyoléfine modifiée TPO conforme aux normes UNI EN ISO 9001 et UNI EN ISO 14001, fabriquée par coextrusion et finition bicolore vert /noir, avec une armature de renfort composite. D'autres couches fonctionnelles et accessoires peuvent être utilisés avec les produits fabriqués ou autorisés par Flag S.p.A."
+  },
+  {
+    "key": "Flagon Geo P200",
+    "name": "FLAGON GEO P - 2.0 mm - 20 m x 2.1 m TPO",
+    "image": "https://www.soprema.ch/files/resize/outside/350-350-flagon-20geo-20p_ff7f68fcd498b57fb8ad0aa619ec3ff0.webp",
+    "description_de": "FLAGON GEO P - 2.0 mm - 20 m x 2.1 m TPO ist eine Kunststoffbahn aus modifiziertem Polyolefin TPO nach UNI EN ISO 9001 und UNI EN ISO 14001, hergestellt im Koextrusionsverfahren in zweifarbiger Ausführung schwarz/grün, mit einem Verstärkungsträger aus Komposit. Weitere Funktionsschichten und Zubehör können mit Produkten, die von Flag S.p.A. hergestellt oder zugelassen sind, verwendet werden.",
+    "description_it": "ITALIAN FLAGON GEO P - 2.0 mm - 20 m x 2.1 m TPO é un telo sintetico in poliolefina termoplastica TPO, realizzato mediante procedimento di coestrusione, esecuzione bicolore nero/nero, con un'armatura di rinforzo in rete composita. Il telo viene impiegato come protezione antiradici o strato di separazione. E' possibile utilizzare ulteriori strati funzionali e accessori con prodotti realizzati od omologati da SOPREMA-FLAG.",
+    "description_fr": "FRENCH FLAGON GEO P - 2.0 mm - 20 m x 2.1 m TPO est une membrane synthétique multicouche constituée de polyoléfines thermoplastiques (TPO), fabriquée par co-extrusion et finition noir/noir, avec une armature composite. Elle est utilisée comme protection anti-racines ou couche de séparation. D'autres couches fonctionnelles et accessoires peuvent être utilisés avec les produits fabriqués ou homologués par SOPREMA-FLAG."
+  },
+  {
+    "key": "Dachvlies WA",
+    "name": "DACHVLIES WA",
+    "image": "https://www.soprema.ch/files/resize/outside/350-350-97354-dachvlies-wa-v1_b804905d91ee92848ec1be87b2e5ee0f.webp",
+    "description_de": "Trenn- und Filtervlies über Wärmedämmung bei Umkehrdächern. Bei An- und Abschlüssen muss das Vlies aufgebordet werden, Überlappung min. 15 cm.",
+    "description_it": "ITALIAN lana di separazione e filtrante sopra l'isolamento termico nei tetti rovesci. Il vello deve essere applicato ai bordi e alle giunture, sovrapposizione min. 15 cm.",
+    "description_fr": "FRENCH Voile de séparation filtrant sur isolation thermique pour toitures inversées. Pour les raccords et finitions, il faut relever les bords du voile avec un recouvrement d’au moins 15 cm."
+  },
+  {
+    "key": "Sopradrain TP",
+    "name": "SOPRADRAIN TP - 10 mm",
+    "image": "https://www.soprema.ch/files/resize/outside/350-350-sopradrain-tp-2-l-536x310px_9957c0ec7ab636f0de23047b8512f121.webp",
+    "description_de": "SOPRADRAIN TP - 10 mm ist eine Drainagematte aus einem leichten, flexiblen Verbundkörper, der über eine hohe Wasserableitkapazität verfügt. Der Kern ist beidseitig mit einem Filtervliesstoff kombiniert. Kern und Filtervliesstoff sind thermisch miteinander  verbunden.",
+    "description_it": "ITALIAN SOPRADRAIN TP - 10 mm é una stuoia drenante con elemento di giunzione leggero e flessibile, che dispone di un'alta capacità di drenaggio. Il nucleo é combinato su entrambe i lati con velo filtrante. Nucleo e velo filtrante collegati tra loro termicamente.",
+    "description_fr": "FRENCH SOPRADRAIN TP - 10 mm est une natte de drainage composite légère et flexible, disposant d'un bon pouvoir drainant. L'âme drainante de la natte est revêtue sur chaque côté d'un voile filtrant. Le tout est lié ensemble par un procédé thermique."
+  },
+  {
+    "key": "Sopradrain WS - 3D",
+    "name": "SOPRADRAIN WS-3D",
+    "image": "https://www.soprema.ch/files/resize/outside/350-350-41830-sopradrain-ws-3d-v1_7e5e897ef2239ccac933d12cc7b3b5db.webp",
+    "description_de": "SOPRADRAIN WS-3D ist eine Drainagematte aus einem leichten, dreidimensionalen und flexiblen Verbundstoff mit Dränkern aus Polyamid-Monofilamenten.  Der Kern ist beidseitig mit einem Filtervliesstoff kombiniert.Kern und Filtervliesstoff sind über die gesamte Oberfläche thermisch miteinander verbunden.",
+    "description_it": "ITALIAN SOPRADRAIN WS-3D é una stuoia drenante di materiale composito leggero, flessibile e tridimensionale con nucleo di drenaggio in monofilamenti poliammidici. Il nucleo é combinato su entrambi i lati con un velo filtrante. Nucleo e velo filtrante collegati tra loro termicamente su tutta la superficie.",
+    "description_fr": "FRENCH SOPRADRAIN WS-3D est une natte de drainage composite légère et flexible dont l'âme est en monofilaments de polyamide. L'âme drainante de la natte est revêtue sur chaque côté d'un voile filtrant. Le tout est lié ensemble par un procédé thermique appliqué à toute la surface."
+  },
+  {
+    "key": "Sopraphon TDZ 290 5 mm",
+    "name": "SOPRAPHON TDZ 290 - 5 mm",
+    "image": "https://www.soprema.ch/files/resize/outside/350-350-100957-sopraphon-tdz-290-5mm_0baba5bef6a5ee71edf9ea774541691b.webp",
+    "description_de": "SOPRAPHON TDZ 290 - 5 mm ist eine geschlossenzellige Polyethylenschaummatte für die Trittschalldämmung. SOPRAPHON TDZ 290 - 5 mm ist druckfest, elastisch, unverrottbar, feuchtigkeitsunempfindlich und leicht zu verarbeiten.",
+    "description_it": "ITALIAN SOPRAPHON TDZ 290 - 5 mm é un tappetino di poliuretano espanso a celle chiuse per l'isolamento acustico al calpestio. SOPRAPHON TDZ 290 - 5 mm é resistente alla pressione, elastico, resistente alla decomposizione, resistente all'umidità ed é facile da trattare.",
+    "description_fr": "FRENCH SOPRAPHON TDZ 290 - 5 mm est une plaque de mousse en polyéthylène à cellules fermées pour l'isolation contre le bruit de choc. SOPRAPHON TDZ 290 - 5 mm est résistant à la pression, élastique, imputrescible, insensible à l'humidité et facile à travailler."
+  },
+  {
+    "key": "Sopratex FP 1",
+    "name": "SOPRATEX FP1",
     "image": "",
-    "description_de": "Die FLAGON EP/PR F 150 ist eine Kunststoffbahn aus thermoplastischen Polyolefinen TPO, hergestellt im Koextrusionsverfahren in zweifarbiger Ausführung sandgrau/schwarz,  mit einer Trägereinlage aus Polyestergewebe und unterseitiger Polyestervlieskaschierung. Die Bahn wird für die vollflächige verklebte Dachsysteme eingesetzt. Weitere Funktionsschichten und Zubehör können mit Produkten, die von SOPREMA-FLAG hergestellt oder zugelassen sind, verwendet werden.",
-    "description_it": "ITALIAN FLAGON EP/PR F 150 é un telo sintetico in poliolefina termoplastica TPO, realizzato mediante procedimento di coestrusione, esecuzione bicolore grigio sabbia/nero, con un rinforzo in tessuto di poliestere e rivestito nella parte inferiore con velo in fibra di poliestere. Il telo viene utilizzato per sistemi di copertura incollati su tutta la superficie. E' possibile utilizzare ulteriori strati funzionali e accessori con prodotti realizzati od omologati da SOPREMA-FLAG.",
-    "description_fr": "FRENCH FLAGON EP/PR F 150 est une membrane synthétique multicouche constituée de polyoléfines thermoplastiques (TPO), fabriquée par co-extrusion et finition bicolore gris sable/noir, avec une armature en tissu de polyester et face inférieure revêtue d'un voile de polyester. Elle est utilisée dans les systèmes d'étanchéité de toiture collés en plein. D'autres couches fonctionnelles et accessoires peuvent être utilisés avec les produits fabriqués ou homologués par SOPREMA-FLAG."
+    "description_de": "SOPRATEX FP1 ist eine Brandschutzlage aus schwarzem Glasfilamentgewebe unter brennbare Nutzbeläge wie z.B. Holzroste.",
+    "description_it": "ITALIAN SOPRATEX FP1 é un tessuto in fibra di vetro sotto strati di usura combustibili come p.es. grigliati di legno.",
+    "description_fr": "FRENCH SOPRATEX FP1 est un tissu noir à base de filaments de verre utilisé comme protection incendie sous les revêtements de sol inflammables comme par exemple les caillebotis en bois."
+  },
+  {
+    "key": "Sopratex PP 200",
+    "name": "SOPRATEX PP 200",
+    "image": "https://www.soprema.ch/files/resize/outside/350-350-41831-sopravlies-200_ac927464fc3e8c4adf5d255f57c02894.webp",
+    "description_de": "SOPRATEX PP 200 ist ein mechanisch verfestigter und thermokalandrierter Schutzvlies aus  UV-stabilisierten Polypropylenfasern (PP).",
+    "description_it": "ITALIAN SOPRATEX PP 200 é un velo protettivo con rinforzo meccanico e termocalandratura in polipropilene (PP) resistente ai raggi UV.",
+    "description_fr": "FRENCH SOPRATEX PP 200 est un non-tissé de protection renforcé mécaniquement et laminé à chaud, en polypropylène résistant aux UV (PP)."
+  },
+  {
+    "key": "Sopratex PP 300",
+    "name": "SOPRATEX PP 300",
+    "image": "https://www.soprema.ch/files/resize/outside/350-350-41832-sopravlies-300_83cb2a04bac4e29de5d172f85109f816.webp",
+    "description_de": "SOPRATEX PP 300 ist ein mechanisch verfestigter und thermokalandrierter Schutzvlies aus  UV-stabilisierten Polypropylenfasern (PP).",
+    "description_it": "ITALIAN SOPRATEX PP 300 é un velo protettivo con rinforzo meccanico e termocalandratura in polipropilene (PP) resistente ai raggi UV.",
+    "description_fr": "FRENCH SOPRATEX PP 300 est un non-tissé de protection renforcé mécaniquement et laminé à chaud, en polypropylène résistant aux UV (PP)."
+  },
+  {
+    "key": "Sopratex PP 600",
+    "name": "SOPRATEX PP 600",
+    "image": "https://www.soprema.ch/files/resize/outside/350-350-40283-sopravlies-600_4986002304df22328100d30db64b4dd2.webp",
+    "description_de": "SOPRATEX PP 600 ist ein mechanisch verfestigter und thermokalandrierter Schutzvlies aus  UV-stabilisierten Polypropylenfasern (PP).",
+    "description_it": "ITALIAN SOPRATEX PP 600 é un velo protettivo con rinforzo meccanico e termocalandratura in polipropilene (PP) resistente ai raggi UV.",
+    "description_fr": "FRENCH SOPRATEX PP 600 est un non-tissé de protection renforcé mécaniquement et laminé à chaud, en polypropylène résistant aux UV (PP)."
+  },
+  {
+    "key": "Sopranature WSP DRAIN 25",
+    "name": "SOPRANATURE WSP DRAIN 25",
+    "image": "https://www.soprema.ch/files/resize/outside/350-350-wsp-25_da04caff6843ca3127dc16b1966d7ea6.webp",
+    "description_de": "Wasserspeicher und Drainageplatte mit hoher Druckfestigkeit, hergestellt aus Recycling Polystyrol (HIPS), geeignet für Dachflächen mit extensiver oder einschichtig intensiver Dachbegrünung. Die Wasserspeicherkapazität beträgt 15 l/m².",
+    "description_it": "ITALIAN Pannello di accumulo e drenaggio dell’acqua ad alta resistenza alla compressione, realizzato in polistirolo riciclato (HIPS), adatto a coperture di tetti con inverdimenti estensivi o intensivi monostrato. La capacità di accumulo dell’acqua è di 15 l/m².",
+    "description_fr": "FRENCH Dalle de rétention d’eau et de drainage à haute résistance à la compression, fabriquée en polystyrène recyclé (HIPS), adaptée à la végétalisation extensive ou intensive monocouche des toitures. La capacité de rétention d’eau est de 15 l/m²."
   },
 ]
