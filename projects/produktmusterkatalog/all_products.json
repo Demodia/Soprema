@@ -391,4 +391,36 @@
     "description_it": "ITALIAN Pannello di accumulo e drenaggio dell’acqua ad alta resistenza alla compressione, realizzato in polistirolo riciclato (HIPS), adatto a coperture di tetti con inverdimenti estensivi o intensivi monostrato. La capacità di accumulo dell’acqua è di 15 l/m².",
     "description_fr": "FRENCH Dalle de rétention d’eau et de drainage à haute résistance à la compression, fabriquée en polystyrène recyclé (HIPS), adaptée à la végétalisation extensive ou intensive monocouche des toitures. La capacité de rétention d’eau est de 15 l/m²."
   },
+  {
+    "key": "SOPRALEN EGV 3 Plus",
+    "name": "SOPRALEN EGV3 PLUS - 10 m x 1 m",
+    "image": "https://www.soprema.ch/files/resize/outside/350-350-41354-egv3-20plus_6b00be80cc9410a1f170d67c1d65785d.webp",
+    "description_de": "Die SOPRALEN EGV3 PLUS - 10 m x 1 m ist eine Elastomerbitumen-Bahn und wird als Zwischenlage bei Abdichtungen im Schweiss- und Klebeverfahren eingesetzt.",
+    "description_it": "ITALIAN SOPRALEN EGV3 PLUS - 10 m x 1 m è un telo di bitume elastomero e viene impiegato come strato intermedio per impermeabilizzazioni da saldare o incollare.",
+    "description_fr": "FRENCH SOPRALEN EGV3 PLUS - 10 m x 1 m est un lé en bitume élastomère utilisé uniquement comme couche intermédiaire pour l'étanchéité collée ou soudée."
+  },
+  {
+    "key": "SOPRALEN STICK 30 DUO",
+    "name": "SOPRALEN STICK 30 DUO",
+    "image": "https://www.soprema.ch/files/resize/outside/350-350-33815-stick-2030-20duo_57058122bca2417121e90958609a5195.webp",
+    "description_de": "Die SOPRALEN STICK 30 DUO ist eine hochwertige Elastomerbitumen-Kaltselbstklebebahn mit einer Sicherheitsrandausbildung und wird als Zwischenlage bei Abdichtungen eingesetzt. Aufgrund ihrer DUO-Randausbildung kann die Oberlage der Abdichtung zeitlich versetzt eingebaut werden.",
+    "description_it": "ITALIAN SOPRALEN STICK 30 DUO è un telo autoadesivo a freddo in bitume elastomero di qualità elevata con un bordo di sicurezza e viene impiegato come strato intermedio per impermeabilizzazioni. Grazie all'esecuzione del bordo con il prodotto DUO, lo strato superiore della impermeabilizzazione può essere impiegato in tempi diversi.",
+    "description_fr": "FRENCH SOPRALEN STICK 30 DUO est un lé autocollant de haute qualité à base de bitume élastomère, avec bords autocollants pour les recouvrements, utilisé comme couche intermédiaire d'étanchéité. Grâce aux bords DUO, la couche supérieure de l'étanchéité peut être posée dans une étape ultérieure."
+  },
+  {
+    "key": "Sopranatutre WSP DRAIN 60",
+    "name": "SOPRANATURE WSP DRAIN 60",
+    "image": "https://www.soprema.ch/files/resize/outside/350-350-wsp-60_959491aa6e51bb2f40122e5aa1892c62.webp",
+    "description_de": "Wasserspeicher und Drainageplatte mit hoher Druckfestigkeit, hergestellt aus Recycling Polystyrol (HIPS), geeignet für Dachflächen mit extensiver oder einschichtig intensiver Dachbegrünung. Die Wasserspeicherkapazität beträgt 32 l/m².",
+    "description_it": "ITALIAN Pannello di accumulo e drenaggio dell’acqua ad alta resistenza alla compressione, realizzato in polistirene ad alto impatto riciclato (HIPS), datto a coperture di tetti con inverdimenti estensivi o intensivi monostrato. La capacità di accumulo dell’acqua è di 32 l/m².",
+    "description_fr": "FRENCH Dalle de rétention d’eau et de drainage à haute résistance à la compression, fabriquée en polystyrène recyclé (HIPS), adaptée à la végétalisation extensive ou intensive monocouche des toitures. La capacité de rétention d’eau est de 32 l/m²."
+  },
+  {
+    "key": "Sopranature WSP DRAIN 40",
+    "name": "SOPRANATURE WSP DRAIN 40",
+    "image": "https://www.soprema.ch/files/resize/outside/350-350-wsp-40_b12f7af626de8bc10dd7b155cb121949.webp",
+    "description_de": "Wasserspeicher und Drainageplatte mit hoher Druckfestigkeit, hergestellt aus Recycling Polystyrol (HIPS), geeignet für Dachflächen mit extensiver oder einschichtig intensiver Dachbegrünung. Die Wasserspeicherkapazität beträgt 23 l/m².",
+    "description_it": "ITALIAN Pannello di accumulo e drenaggio dell’acqua ad alta resistenza alla compressione, realizzato in polistirene ad alto impatto riciclato (HIPS), adatto a coperture di tetti con inverdimenti estensivi o intensivi monostrato. La capacità di accumulo dell’acqua è di 23 l/m².",
+    "description_fr": "FRENCH Dalle de rétention d’eau et de drainage à haute résistance à la compression, fabriquée en polystyrène recyclé (HIPS), adaptée à la végétalisation extensive ou intensive monocouche des toitures. La capacité de rétention d’eau est de 23 l/m²."
+  },
 ]
