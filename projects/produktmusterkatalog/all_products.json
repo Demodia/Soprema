@@ -423,4 +423,28 @@
     "description_it": "ITALIAN Pannello di accumulo e drenaggio dell’acqua ad alta resistenza alla compressione, realizzato in polistirene ad alto impatto riciclato (HIPS), adatto a coperture di tetti con inverdimenti estensivi o intensivi monostrato. La capacità di accumulo dell’acqua è di 23 l/m².",
     "description_fr": "FRENCH Dalle de rétention d’eau et de drainage à haute résistance à la compression, fabriquée en polystyrène recyclé (HIPS), adaptée à la végétalisation extensive ou intensive monocouche des toitures. La capacité de rétention d’eau est de 23 l/m²."
   },
+  {
+    "key": "SOPRAFIX HP DUO",
+    "name": "SOPRAFIX HP DUO 4.0 mm - 8 m x 1 m",
+    "image": "https://www.soprema.ch/files/resize/outside/350-350-41861-soprafix-20hp-20duo_ed0ac736aff7a73ad59fd628d1c07eec.webp",
+    "description_de": "Die SOPRAFIX HP DUO 4.0 mm - 8 m x 1 m ist eine hochwertige Elastomerbitumenbahn und wird als Zwischenlage bei mech. befestigten Abdichtungen und auf hitzeunempfindlichen Unterlagen und Wärmedämmungen eingesetzt. Aufgrund der DUO-Randausbildung kann die Oberlage der Abdichtung zeitlich versetzt eingebaut werden.",
+    "description_it": "ITALIAN SOPRAFIX HP DUO 4.0 mm - 8 m x 1 m, è un telo di bitume elastomero di qualità elevata, e viene impiegato come strato intermedio in caso di impermeabilizzazioni fissate meccanicamente e su supporti insensibili al calore e materiali termoisolanti. Grazie all'esecuzione perimetrale con il prodotto DUO, lo strato superiore dell'impermeabilizzazione può essere impiegato in tempi diversi.",
+    "description_fr": "FRENCH SOPRAFIX HP DUO 4.0 mm - 8 m x 1 m est un lé en bitume élastomère thermosoudable de haute qualité, utilisé comme couche intermédiaire en cas d'exigences élevées ou pour les systèmes d'étanchéité à fixation mécanique. Grâce aux bords DUO, la couche supérieure de l'étanchéité peut être posée dans une étape ultérieure."
+  },
+  {
+    "key": "JOINT TAPE",
+    "name": "JOINT TAPE - 20 m",
+    "image": "https://www.soprema.ch/files/resize/outside/350-350-alsan-join-tape_26c477d2ea2e4e68c048236aba6f1bf4.webp",
+    "description_de": "JOINT TAPE ist ein flexibles, geklebtes Abdichtungsband aus Polyolefin (FPO) für die Abdichtung von Bauwerksfugen.",
+    "description_it": "ITALIAN JOINT TAPE è un nastro adesivo impermeabilizzante flessibile in poliolefina (FPO) per l’impermeabilizzazione di giunti di opere edili.",
+    "description_fr": "FRENCH JOINT TAPE est un lé d’étanchéité collé souple en polyoléfine (FPO), destiné à l'étanchéité des joints de construction."
+  },
+  {
+    "key": "Sopranature WSP Slow Drain 40",
+    "name": "SOPRANATURE WSP SLOW DRAIN 40",
+    "image": "https://www.soprema.ch/files/resize/outside/350-350-wsp-slow-drain-40-20_b0712bf6521871c535da661322d2d0a6.webp",
+    "description_de": "Drainageplatte mit Abflussverzögerung und Restwasserspeicherung, ideal zur Entlastung der Kanalisation bei Starkregen, hergestellt aus Recycling Polystyrol (HIPS).",
+    "description_it": "ITALIAN Pannello di drenaggio con ritardo di deflusso e stoccaggio dell’acqua residua, ideale per alleggerire il sistema fognario durante le forti piogge, realizzato in polistirene ad alto impatto riciclato (HIPS).",
+    "description_fr": "FRENCH Dalle de drainage avec ralentissement de l’écoulement et stockage de l’eau résiduelle, idéale pour désengorger les canalisations en cas de fortes pluies, fabriquée en polystyrène recyclé (HIPS)."
+  },
 ]
